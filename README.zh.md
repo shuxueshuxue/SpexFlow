@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **SpexFlow 已不再维护。** 这套思路在 **[SpexCode](https://github.com/shuxueshuxue/spexcode)** 里得到延续、也走得更远:SpexFlow 是一次给一个功能拼装 context 和 spec,而 SpexCode 在你的 git 仓库里维护一棵带版本的 spec 树,并派 AI agent 对着它开发。后续开发都在那边。
+
 ![SpexFlow](docs/images/banner.png)
 
 [English](README.md) | 简体中文

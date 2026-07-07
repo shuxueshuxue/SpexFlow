@@ -1,3 +1,6 @@
+> [!IMPORTANT]
+> **SpexFlow is no longer maintained.** Its ideas continue — and go further — in **[SpexCode](https://github.com/shuxueshuxue/spexcode)**: where SpexFlow assembled context and a spec one feature at a time, SpexCode keeps a versioned spec tree inside your git repo and dispatches AI agents to build against it. Head there for active development.
+
 ![SpexFlow](docs/images/banner.png)
 
 [English](README.md) | [简体中文](README.zh.md)
